@@ -1,7 +1,9 @@
 # Tic-Tac-Toe
 Components:
 Game: I use this as my main container—it holds the overall state and history of the moves.
+
 Board: This renders the 3×3 grid and contains the logic for handling clicks.
+
 Square: Each square is a simple component that just displays its value and notifies me when it's clicked.
 
 Props:
